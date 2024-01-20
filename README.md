@@ -1,6 +1,4 @@
 # Video Compressor Script in Python
-
-## Description
 This Python script uses the MoviePy library to compress and rotate videos in a specified folder. It resizes videos to a resolution of 1920x1080, ensures good audio quality, and maintains the original video rotation.
 
 ## Features
