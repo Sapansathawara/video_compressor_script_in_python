@@ -12,7 +12,7 @@ Our project is a Python script built using the powerful MoviePy library. The pri
 Clone the Repository
 
 ```bash
-  https://github.com/Sapansathawara/video_compressor_script_in_python
+  git clone https://github.com/Sapansathawara/video_compressor_script_in_python
 ```
 
 Install required dependencies:
