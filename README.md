@@ -9,11 +9,6 @@ This Python script uses the MoviePy library to compress and rotate videos in a s
 - **Audio Quality:** Ensures good audio quality in the compressed videos.
 - **Rotation Handling:** Preserves the original rotation of videos during compression.
 
-## Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Sapansathawara/video_compressor_script_in_python
-
 ## Installation
 
 Clone the Repository
