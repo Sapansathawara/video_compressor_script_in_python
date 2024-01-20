@@ -8,7 +8,7 @@ Our project is a Python script built using the powerful MoviePy library. The pri
 - **Rotation Handling:** Preserves the original rotation of videos during compression.
 
 ## Screen Struggles
-During our trip, we captured numerous videos using my friend's Samsung Galaxy S22 Ultra. The videos were recorded in 4K and 8K resolutions. However, when attempting to view them on my computer and mobile device, I face various compatibility issues due to the high resolutions. To address this problem, I had to transfer the videos to a device that supports these resolutions.
+During our trip, we captured numerous videos using my friend's iPhone 15 Pro Max and Samsung Galaxy S22 Ultra. The videos were recorded in 4K and 8K resolutions. However, when attempting to view them on my computer and mobile device, I face various compatibility issues due to the high resolutions. To address this problem, I had to transfer the videos to a device that supports these resolutions.
 
 ## Installation
 
